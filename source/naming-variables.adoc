@@ -1,0 +1,15 @@
+= Naming Variables
+HelloWorld Team
+
+
+NOTE: The term "variables" also refers to function and class names.
+
+* A variable may start with a digit (e.g. `FUNC 2d() { ... }`.
+* A variable must not only consist of ascii digits.
+* A variable should not only consist of a single question mark (`?`).
+* A variable should have a self-explanatory name unless used as a counter variable or in a closure.
+* Words should be seperated by underscores (`_`) (e.g. `FUNC repeat_until_done() { ... }`).
+* Functions that return a boolean should be suffixed by a question mark (`?`) (e.g. `FUNC empty?() -> Boolean { ... }`).
+* Functions that return an amount of something should be prefixed by a number sign (`#`) (e.g.
+  `#collected_coins() -> num { ... }`).
+
