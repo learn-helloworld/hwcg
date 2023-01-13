@@ -11,5 +11,5 @@ NOTE: The term "variables" also refers to function and class names.
 * Words should be seperated by underscores (`_`) (e.g. `FUNC repeat_until_done() { ... }`).
 * Functions that return a boolean should be suffixed by a question mark (`?`) (e.g. `FUNC empty?() -> Boolean { ... }`).
 * Functions that return an amount of something should be prefixed by a number sign (`#`) (e.g.
-  `#collected_coins() -> num { ... }`).
+  `FUNC #collected_coins() -> Number { ... }`).
 
