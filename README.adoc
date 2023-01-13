@@ -1,0 +1,5 @@
+= HelloWorld Convention Guideline
+Jonas da Silva
+:repo-url: https://github.com/learn-helloworld/hwcg
+
+The HelloWorld Convention Guideline documents how code and projects associated with HelloWorld shoud be formatted and designed.
